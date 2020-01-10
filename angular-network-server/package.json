@@ -29,7 +29,7 @@
     "joi": "9.2.0",
     "jsonwebtoken": "7.1.9",
     "lodash": "^4.17.15",
-    "method-override": "2.3.6",
+    "method-override": "2.3.10",
     "morgan": "^1.9.1",
     "multer": "1.2.0",
     "neo4j": "2.0.0-RC2",
