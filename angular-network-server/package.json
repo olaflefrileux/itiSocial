@@ -46,7 +46,7 @@
   "devDependencies": {
     "typescript": "2.1.4",
     "tslint": "4.3.1",
-    "debug": "2.6.0",
+    "debug": "2.6.9",
     "chai": "3.5.0",
     "@types/express": "4.0.34",
     "@types/express-serve-static-core": "4.0.40",
