@@ -28,7 +28,7 @@
     "inversify-express-utils": "2.0.2",
     "joi": "9.2.0",
     "jsonwebtoken": "7.1.9",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "method-override": "2.3.6",
     "morgan": "^1.9.1",
     "multer": "1.2.0",
