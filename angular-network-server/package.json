@@ -39,7 +39,7 @@
     "request": "^2.88.0",
     "request-promise": "4.1.1",
     "requiredir": "1.0.7",
-    "socket.io": "1.7.2",
+    "socket.io": "2.4.0",
     "uuid": "3.0.1",
     "winston": "2.3.0"
   },
