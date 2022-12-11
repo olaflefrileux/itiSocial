@@ -19,7 +19,7 @@
     "cookie-parser": "1.4.3",
     "cors": "2.8.1",
     "deepcopy": "0.6.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validation": "1.0.1",
     "express-winston": "2.0.0",
     "http-status": "0.2.3",
